@@ -10,5 +10,3 @@ At the start of your favourite analysis script, say 'import Function_definitions
 units.py:
 
 Small package to deal with pax units.
-
-Erik
